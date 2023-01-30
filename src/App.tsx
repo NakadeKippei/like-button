@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <LikeButton />
+        <p>git test</p>
       </header>
     </div>
   );
